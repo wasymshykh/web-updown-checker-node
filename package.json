@@ -1,0 +1,28 @@
+{
+  "name": "web-updown-checker-node",
+  "version": "0.0.1",
+  "description": "Web Up/Down Checker using Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasymshykh/web-updown-checker-node.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Website",
+    "Checker",
+    "Uptime",
+    "Checker",
+    "Status",
+    "Checker"
+  ],
+  "author": "Wasym",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wasymshykh/web-updown-checker-node/issues"
+  },
+  "homepage": "https://github.com/wasymshykh/web-updown-checker-node#readme"
+}
